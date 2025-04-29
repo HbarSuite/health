@@ -10,3 +10,7 @@ All notable changes to this project will be documented in this file.
 - Changed: package.json
 - Changed: src/
 - Changed: tsconfig.lib.json
+
+## [2.0.3] - 2025-04-29
+
+- Modified: package.json
